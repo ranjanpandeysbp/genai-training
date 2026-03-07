@@ -1,0 +1,8 @@
+Line 1: This is the first line
+Line 2: This is the second line
+Line 3: This is the third line
+Line 4: This is the fourth line
+Appended Line 5
+Appended Line 6
+Appended Line 7
+this is day 3 of genai course
